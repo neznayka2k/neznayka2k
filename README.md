@@ -1,7 +1,7 @@
 ### Привет, меня зовут Даниил Пономаренко 👋
 Я начинающий Веб-девелопер, который учится в Яндекс.Практикуме
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neznayka2k&show_icons=true&theme=material" alt="neznayka2k" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=neznayka2k&show_icons=true&theme=material" alt="neznayka2k" />
 
   # Todoist Stats
 
