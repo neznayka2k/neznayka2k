@@ -1,5 +1,5 @@
 <h2 align="center">Меня зовут Даниил, я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-<!-- <p align="center"><a href="https://ia-stepanov.ru/"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></a></p> -->
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 <!-- <p align="center"><a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></a></p> -->
 
 ### Привет, меня зовут Даниил Пономаренко 👋
